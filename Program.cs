@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using SupportInsights.Data;
+using SupportInsights.Interfaces;
 using SupportInsights.Services;
 using System.Text;
 

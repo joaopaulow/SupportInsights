@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using SupportInsights.Interfaces;
 using SupportInsights.Models;
-using SupportInsights.Services;
 
 namespace SupportInsights.Controllers
 {

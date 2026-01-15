@@ -2,8 +2,8 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SupportInsights.Data;
+using SupportInsights.Interfaces;
 using SupportInsights.Models;
-using SupportInsights.Services;
 using System.Security.Cryptography;
 using System.Text;
 

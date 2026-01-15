@@ -6,6 +6,7 @@ using Microsoft.Extensions.Logging;
 using Moq;
 using SupportInsights.Controllers;
 using SupportInsights.Data;
+using SupportInsights.Interfaces;
 using SupportInsights.Models;
 using SupportInsights.Services;
 using Xunit;

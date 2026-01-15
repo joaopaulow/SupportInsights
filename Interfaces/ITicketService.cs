@@ -1,6 +1,6 @@
 using SupportInsights.Models;
 
-namespace SupportInsights.Services
+namespace SupportInsights.Interfaces
 {   
     public interface ITicketService
     {      

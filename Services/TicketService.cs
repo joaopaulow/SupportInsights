@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using SupportInsights.Data;
+using SupportInsights.Interfaces;
 using SupportInsights.Models;
 
 namespace SupportInsights.Services

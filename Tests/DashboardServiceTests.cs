@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Moq;
 using SupportInsights.Controllers;
+using SupportInsights.Interfaces;
 using SupportInsights.Models;
-using SupportInsights.Services;
 using Xunit;
 
 namespace SupportInsights.Tests

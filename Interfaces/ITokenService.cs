@@ -1,4 +1,4 @@
-namespace SupportInsights.Services
+namespace SupportInsights.Interfaces
 { 
     public interface ITokenService
     {

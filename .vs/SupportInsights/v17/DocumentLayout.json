@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Projects\\SupportInsights\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|c:\\projects\\supportinsights\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|solutionrelative:services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|c:\\projects\\supportinsights\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|c:\\projects\\supportinsights\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|c:\\projects\\supportinsights\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|c:\\projects\\supportinsights\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|solutionrelative:services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8935586-3CBD-45AD-8DA1-1B17432C6EC6}|SupportInsights.csproj|c:\\projects\\supportinsights\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1371,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,6 +63,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\SupportInsights\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\SupportInsights\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:01:34.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Projects\\SupportInsights\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -66,12 +83,11 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T12:19:28.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T12:19:28.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\SupportInsights\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -84,20 +100,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TicketService.cs",
               "DocumentMoniker": "C:\\Projects\\SupportInsights\\Services\\TicketService.cs",
               "RelativeDocumentMoniker": "Services\\TicketService.cs",
               "ToolTip": "C:\\Projects\\SupportInsights\\Services\\TicketService.cs",
               "RelativeToolTip": "Services\\TicketService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAASwCYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwCUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T12:03:53.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Projects\\SupportInsights\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
@@ -110,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TicketController.cs",
               "DocumentMoniker": "C:\\Projects\\SupportInsights\\Controllers\\TicketController.cs",
               "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
@@ -123,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TicketServiceTests.cs",
               "DocumentMoniker": "C:\\Projects\\SupportInsights\\Tests\\TicketServiceTests.cs",
               "RelativeDocumentMoniker": "Tests\\TicketServiceTests.cs",
@@ -136,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DashboardServiceTests.cs",
               "DocumentMoniker": "C:\\Projects\\SupportInsights\\Tests\\DashboardServiceTests.cs",
               "RelativeDocumentMoniker": "Tests\\DashboardServiceTests.cs",

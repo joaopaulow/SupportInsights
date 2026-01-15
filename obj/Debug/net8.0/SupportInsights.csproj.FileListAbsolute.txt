@@ -136,3 +136,4 @@ C:\Projects\SupportInsights\obj\Debug\net8.0\refint\SupportInsights.dll
 C:\Projects\SupportInsights\obj\Debug\net8.0\SupportInsights.pdb
 C:\Projects\SupportInsights\obj\Debug\net8.0\SupportInsights.genruntimeconfig.cache
 C:\Projects\SupportInsights\obj\Debug\net8.0\ref\SupportInsights.dll
+C:\Projects\SupportInsights\obj\Debug\net8.0\SupportInsights.sourcelink.json
